@@ -8,10 +8,6 @@ package model;
  *
  * @author julia
  */
-public class Professor {
-    private int id;
-    private String name;
-    
-    
+public class Route {
     
 }
